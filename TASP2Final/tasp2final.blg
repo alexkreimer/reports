@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tasp2final.aux
+The style file: plain.bst
+Database file #1: egbib.bib
+Warning--to sort, need author or key in Klein2007
+Warning--empty author in Klein2007
+Warning--there's a number but no volume in Badino2013
+Warning--empty journal in Kaess2008
+Warning--empty journal in Scaramuzza2011
+Warning--there's a number but no volume in Scaramuzza2011
+Warning--there's a number but no volume in Shi1994
+Warning--empty journal in Song
+Warning--empty year in Song
+You've used 26 entries,
+            2118 wiz_defined-function locations,
+            670 strings with 8459 characters,
+and the built_in function-call counts, 9116 in all, are:
+= -- 941
+> -- 371
+< -- 8
++ -- 146
+- -- 120
+* -- 625
+:= -- 1466
+add.period$ -- 76
+call.type$ -- 26
+change.case$ -- 138
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 359
+empty$ -- 692
+format.name$ -- 120
+if$ -- 1925
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 27
+newline$ -- 131
+num.names$ -- 50
+pop$ -- 126
+preamble$ -- 1
+purify$ -- 112
+quote$ -- 0
+skip$ -- 283
+stack$ -- 0
+substring$ -- 692
+swap$ -- 99
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 102
+warning$ -- 9
+while$ -- 96
+width$ -- 28
+write$ -- 278
+(There were 9 warnings)

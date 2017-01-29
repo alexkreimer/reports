@@ -1,0 +1,155 @@
+\begin{thebibliography}{10}
+
+\bibitem{Klein2007}
+{Parallel tracking and mapping for small AR workspaces}.
+\newblock {\em 2007 6th IEEE and ACM International Symposium on Mixed and
+  Augmented Reality, ISMAR}, 2007.
+
+\bibitem{Badino2013}
+Hern{\'{a}}n Badino, Akihiro Yamamoto, and Takeo Kanade.
+\newblock {Visual odometry by multi-frame feature integration}.
+\newblock {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, (Cvad 13):222--229, 2013.
+
+\bibitem{Bay2006}
+Herbert Bay, Tinne Tuytelaars, and Luc {Van Gool}.
+\newblock {SURF: Speeded up robust features}.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 3951
+  LNCS:404--417, 2006.
+
+\bibitem{Geiger2012}
+Andreas Geiger, Philip Lenz, and Raquel Urtasun.
+\newblock {Are we ready for autonomous driving? the KITTI vision benchmark
+  suite}.
+\newblock {\em Proceedings of the IEEE Computer Society Conference on Computer
+  Vision and Pattern Recognition}, pages 3354--3361, 2012.
+
+\bibitem{Geiger2011}
+Andreas Geiger, Julius Ziegler, and Christoph Stiller.
+\newblock {StereoScan: Dense 3d reconstruction in real-time}.
+\newblock {\em IEEE Intelligent Vehicles Symposium, Proceedings}, pages
+  963--968, 2011.
+
+\bibitem{Govender2009}
+Natasha Govender.
+\newblock {Evaluation of Feature Detection Algorithms for Structure from
+  Motion}.
+\newblock {\em Csir}, 2009.
+
+\bibitem{Harris1987}
+C~G Harris and J~M Pike.
+\newblock {3D Positional Integration from Image Sequences}.
+\newblock {\em Procedings of the Alvey Vision Conference 1987}, pages 233--236,
+  1987.
+
+\bibitem{Harris1988}
+Chris Harris and Mike Stephens.
+\newblock {A Combined Corner and Edge Detector}.
+\newblock {\em Procedings of the Alvey Vision Conference 1988}, pages 147--151,
+  1988.
+
+\bibitem{Hartley2004}
+R.~I. Hartley and A.~Zisserman.
+\newblock {\em Multiple View Geometry in Computer Vision}.
+\newblock Cambridge University Press, ISBN: 0521540518, second edition, 2004.
+
+\bibitem{Hedborg2009}
+Johan Hedborg, Pe~Forss{\'{e}}n, and Michael Felsberg.
+\newblock {Fast and accurate structure and motion estimation}.
+\newblock {\em 5th International Symposium on Advances in Visual Computing:
+  Part I}, pages 211--222, 2009.
+
+\bibitem{Horn1987}
+Berthold K~P Horn.
+\newblock {Closed-form solution of absolute orientation using unit
+  quaternions}.
+\newblock {\em Journal of the Optical Society of America A}, 4(4):629, 1987.
+
+\bibitem{Kaess2008}
+Michael Kaess, Ananth Ranganathan, and Frank Dellaert.
+\newblock {iSAM: Incremental smoothing and mapping}.
+\newblock 24(6):1365--1378, 2008.
+
+\bibitem{Kneip1991}
+Laurent Kneip, Davide Scaramuzza, and Roland Siegwart.
+\newblock {A novel parametrization of the perspective-three-point problem for a
+  direct computation of absolute camera position and orientation}.
+\newblock {\em Proceedings of the IEEE Computer Society Conference on Computer
+  Vision and Pattern Recognition}, pages 2969--2976, 2011.
+
+\bibitem{Konolige2010}
+Kurt Konolige, Motilal Agrawal, and Joan Sol{\`{a}}.
+\newblock {Large-scale visual odometry for rough terrain}.
+\newblock {\em Springer Tracts in Advanced Robotics}, 66(STAR):201--212, 2010.
+
+\bibitem{Lowe2004}
+David~G Lowe.
+\newblock {Distinctive image features from scale invariant keypoints}.
+\newblock {\em Int'l Journal of Computer Vision}, 60:91--11020042, 2004.
+
+\bibitem{Milella2006}
+Annalisa Milella and Roland Siegwart.
+\newblock {Stereo-based ego-motion estimation using pixel tracking and
+  iterative closest point}.
+\newblock {\em Proceedings of the Fourth IEEE International Conference on
+  Computer Vision Systems, ICVS'06}, 2006(Icvs):21, 2006.
+
+\bibitem{Moravec1980}
+Hans~Peter Moravec.
+\newblock {Obstacle avoidance and navigation in the real world by a seeing
+  robot rover.}
+\newblock {\em tech. report CMU-RI-TR-80-03}, page 175, 1980.
+
+\bibitem{Newcombe2011}
+R~A Newcombe, S~J Lovegrove, and A~J Davison.
+\newblock {{\{}DTAM{\}}: Dense Tracking and Mapping in Real-Time}.
+\newblock {\em Int. Conf. on Computer Vision (ICCV)}, pages 2320--2327, 2011.
+
+\bibitem{Nister2004}
+David Nist{\'{e}}r.
+\newblock {An efficient solution to the five-point relative pose problem}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  26(6):756--770, 2004.
+
+\bibitem{Olson2003}
+Clark~F. Olson, Larry~H. Matthies, Marcel Schoppers, and Mark~W. Maimone.
+\newblock {Rover navigation using stereo ego-motion}.
+\newblock {\em Robotics and Autonomous Systems}, 43(4):215--229, 2003.
+
+\bibitem{Persson2015}
+Mikael Persson, Tommaso Piccini, Michael Felsberg, and Rudolf Mester.
+\newblock {Robust stereo visual odometry from monocular techniques}.
+\newblock {\em IEEE Intelligent Vehicles Symposium, Proceedings},
+  2015-Augus:686--691, 2015.
+
+\bibitem{Rosten2006}
+Edward Rosten and Tom Drummond.
+\newblock {Machine learning for high-speed corner detection}.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, 3951
+  LNCS:430--443, 2006.
+
+\bibitem{Scaramuzza2011}
+Davide Scaramuzza and Friedrich Fraundorfer.
+\newblock {Visual Odometry}.
+\newblock (June), 2011.
+
+\bibitem{Shi1994}
+Jianbo Shi~Jianbo Shi and Carlo Tomasi.
+\newblock {Good features to track}.
+\newblock {\em Computer Vision and Pattern Recognition, 1994. Proceedings CVPR
+  '94., 1994 IEEE Computer Society Conference on}, (December):593--600, 1994.
+
+\bibitem{Song}
+Shiyu Song and Clark~C Guest.
+\newblock {Parallel , Real-Time Monocular Visual Odometry}.
+
+\bibitem{Triggs2000}
+Bill Triggs, Philip~F. Mclauchlan, Richard~I. Hartley, and Andrew~W.
+  Fitzgibbon.
+\newblock {Bundle Adjustment - a Modern Synthesis}.
+\newblock {\em Vision algorithms: theory and practice. S}, 34099:298--372,
+  2000.
+
+\end{thebibliography}

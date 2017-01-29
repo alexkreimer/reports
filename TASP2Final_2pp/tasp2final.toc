@@ -1,0 +1,33 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}The Infinite Visual Odometry Algorithm}{4}
+\contentsline {subsection}{\numberline {2.0.1}Summary of Our Work}{4}
+\contentsline {section}{\numberline {2.1}Preliminaries and Notation}{5}
+\contentsline {subsection}{\numberline {2.1.1}Image Point Mapping Related to Camera Motion}{5}
+\contentsline {section}{\numberline {2.2}Motion Estimation}{6}
+\contentsline {subsection}{\numberline {2.2.1}Stereo}{6}
+\contentsline {paragraph}{Partitioning the points}{6}
+\contentsline {paragraph}{Rotation Estimation:}{6}
+\contentsline {paragraph}{Initialization:}{7}
+\contentsline {paragraph}{Refinement:}{8}
+\contentsline {paragraph}{Translation Estimation (1-point algorithm)}{8}
+\contentsline {section}{\numberline {2.3}Experimental Results}{9}
+\contentsline {subsection}{\numberline {2.3.1}The Choice of Features}{9}
+\contentsline {paragraph}{Feature Detector/Descriptor:}{9}
+\contentsline {paragraph}{Feature Matching:}{9}
+\contentsline {subsection}{\numberline {2.3.2}Experimental Results}{9}
+\contentsline {paragraph}{Stereo}{10}
+\contentsline {paragraph}{Mono}{10}
+\contentsline {section}{\numberline {2.4}Conclusions and Discussion}{10}
+\contentsline {chapter}{\numberline {3}The Dataset}{11}
+\contentsline {section}{\numberline {3.1}Data Acquisition}{11}
+\contentsline {subsection}{\numberline {3.1.1}Overview}{11}
+\contentsline {subsection}{\numberline {3.1.2}Physical Setup}{11}
+\contentsline {paragraph}{The cameras}{11}
+\contentsline {paragraph}{The GPS}{11}
+\contentsline {paragraph}{The Software}{12}
+\contentsline {paragraph}{The experiment day}{12}
+\contentsline {section}{\numberline {3.2}Post-processing}{13}
+\contentsline {subsection}{\numberline {3.2.1}Image sequences}{13}
+\contentsline {subsection}{\numberline {3.2.2}GPS Data}{13}
+\contentsline {subsection}{\numberline {3.2.3}Missing GPS Data}{13}
+\contentsline {section}{\numberline {3.3}VO results evaluation}{13}
